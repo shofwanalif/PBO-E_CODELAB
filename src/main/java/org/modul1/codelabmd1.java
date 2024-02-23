@@ -48,6 +48,5 @@ public class codelabmd1 {
         System.out.println("Nama : " + nama );
         System.out.println("Jenis Kelamin :" + jenisKelamin);
         System.out.println("Umur: " + tahun + " tahun " + bulan + " bulan " + hari + " hari");
-
     }
 }
